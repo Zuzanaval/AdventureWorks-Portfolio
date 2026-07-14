@@ -176,5 +176,21 @@ Implemented analyses:
   Returning customer analysis
   Geographic sales analysis
 
+  ## Technical Skills Demonstrated
+
+This project demonstrates practical experience with:
+
+- SQL querying and data analysis
+- Data aggregation and summarization
+- Joins between fact and dimension tables
+- Common Table Expressions (CTEs)
+- Filtering, grouping, and ranking data
+- Customer and product performance analysis
+- KPI calculation
+- Business-oriented data interpretation
+- Power BI dashboard development
+- Basic DAX measures
+- Data storytelling and visualization
+
 
 
