@@ -20,6 +20,7 @@ The project demonstrates practical data analyst skills including data querying, 
 - GitHub
 - Power BI
 - DAX (basic measures)
+- GitHub
 
 ## Business Questions
 
@@ -34,48 +35,86 @@ This analysis focuses on questions such as:
 
 ## SQL Analysis
 
-The project currently includes:
+The project includes the following SQL analyses:
 
-### 01 - Sales Overview
+01 - Sales Overview
 Basic sales performance analysis:
 - Total sales
 - Number of orders
 - Number of customers
-- Average order value
+- Average order value (AOV)
 
-### 02 - Product Analysis
+02 - Product Analysis
 Product performance analysis:
 - Sales by product category
 - Units sold
 - Top products by revenue
+- Identification of top-performing products
 
-### 03 - Customer Analysis
+03 - Customer Analysis
 Customer behaviour analysis:
 - Number of orders per customer
 - Total customer revenue
 - Top customers by sales
+- Customer purchasing activity
+
+04 - Customer Segmentation
+Customer segmentation based on purchasing behaviour:
+
+- Customer grouping by revenue
+- Identification of high-value customers
+- Analysis of customer contribution to overall sales
+
+05 - Sales Trends Analysis
+Time-based sales analysis:
+
+- Sales performance over time
+- Monthly and yearly sales trends
+- Identification of changes in sales performance
+
+06 - Top Products Ranking
+Analysis of best-performing products:
+
+- Ranking products by revenue
+- Identifying highest-selling products
+- Comparing product performance
+
+07 - Returning Customers Analysis
+Customer retention analysis:
+
+- Identification of repeat customers
+- Number of returning customers
+- Analysis of customer loyalty behaviour
+
+08 - Sales By Country Analysis
+Geographic sales analysis:
+
+- Sales distribution by country
+- Identification of high-performing markets
+- Comparison of regional sales performance
+
 ## Power BI Dashboard
 
 An interactive Power BI dashboard was created to visualize sales performance and support business decision-making.
 
 The dashboard includes:
 
-- KPI overview:
+  KPI overview:
   - Total Sales
   - Total Orders
   - Total Customers
   - Average Order Value
 
-- Sales analysis:
+  Sales analysis:
   - Sales by product category
   - Sales trends over time
   - Top 10 products by revenue
 
-- Interactive filters:
+  Interactive filters:
   - Year
   - Product category
 
-- Business insights based on sales performance trends.
+  Business insights based on sales performance trends.
 
 ## Dataset
 
@@ -108,21 +147,18 @@ AdventureWorks-Portfolio
 ## Project Status
 
 ✅ SQL analysis completed
+✅ Power BI dashboard completed
 
-Completed analyses:
+Implemented analyses:
 
-- Sales overview and key performance indicators
-- Product performance analysis
-- Customer analysis
-- Customer segmentation
-- Sales trends analysis
-- Top product ranking
-- Returning customer analysis
-- Geographic sales analysis
+  Sales overview and KPI calculation
+  Product performance analysis
+  Customer analysis
+  Customer segmentation
+  Sales trends analysis
+  Top product ranking
+  Returning customer analysis
+  Geographic sales analysis
 
 
-🚧 Next step:
 
-- Power BI interactive dashboard
-- Data visualizations
-- Business insights presentation
