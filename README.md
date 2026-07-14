@@ -116,6 +116,22 @@ The dashboard includes:
 
   Business insights based on sales performance trends.
 
+  ## Key Insights
+
+The analysis identified several important business findings:
+
+- The business generated approximately **$29.36M in total sales** from **27,659 orders** and **18,484 customers**.
+
+- The **Bikes category represents the dominant revenue source**, generating the majority of total sales compared to Accessories and Clothing.
+
+- Customer analysis identified high-value customers who contribute significantly to overall revenue and demonstrated the importance of understanding customer purchasing behaviour.
+
+- Customer segmentation revealed differences in customer value, helping identify opportunities for targeted marketing and customer retention strategies.
+
+- Sales trend analysis provided insights into revenue development over time and helped identify changes in business performance.
+
+- Geographic sales analysis highlighted differences in sales contribution across countries and regions.
+
 ## Dataset
 
 Dataset:
